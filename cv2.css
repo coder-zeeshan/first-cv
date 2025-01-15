@@ -1,0 +1,48 @@
+.p{
+    float: inline-end;
+    height: 400px;
+    border-radius: 1000px;
+}
+.h{
+    font-size: 30px;
+}
+.b{
+    border: 2px solid black;
+}
+.b2{ 
+    background-color: black;
+    width: 50%;
+    float: left;
+}
+.br{
+    background-color: black;
+    width: 50%;
+    float: right;
+}
+.mdiv{
+    background-color: black;
+}
+.h2{
+    color: salmon;
+}
+.p1{
+    color: white;
+    text-align: left;
+}
+.travelling{
+    height: 80px;
+    padding: 20px;
+}
+.icon{
+    color: white;
+    text-align: center;
+    display: inline;
+}
+.z{
+    
+    text-align: center;
+    color: white;
+}
+.zv{
+    display: inline-block;
+}
